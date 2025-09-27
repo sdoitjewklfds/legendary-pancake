@@ -1,0 +1,1 @@
+{onlineplayers = 0}
